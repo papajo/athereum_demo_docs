@@ -81,7 +81,7 @@ We're ready to begin interacting with the smart contract through our Wallet.
 
 ![](MEW16-5b4af96e-aad2-4224-ad77-3bca634a1561.png)
 
-- [ ]  Fill out the "`Contract Address`" field to read "0x1a392d4cA5E4f874D55619F245c3Fc56548C1824" and the "`ABI/JSON Interface`" to have the following value (the contract address in the picture may vary from the contract address above):
+- [ ]  Fill out the "`Contract Address`" field to read "0x41BF78b80b2cb9725B59f6106Be3655901B9Ae76" and the "`ABI/JSON Interface`" to have the following value (the contract address in the picture may vary from the contract address above):
 
 [https://gist.github.com/collincusce/d0fe8cea9223bf3ab67a1914173a1e34](https://gist.github.com/collincusce/d0fe8cea9223bf3ab67a1914173a1e34)
 
